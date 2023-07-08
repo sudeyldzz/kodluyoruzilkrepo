@@ -4,8 +4,8 @@ kodluyoruz eğitimi kapsamında açtığım ilk repo
  `git clone https://github.com/sudeyldzz/kodluyoruzilkrepo.git`
 
 ## usage
-cd kodluyoruzilkrepo
-code .
+`cd kodluyoruzilkrepo
+code .`
 
 ## Contributing
 Pull reqquistler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğiniz için bir konu açınız.
